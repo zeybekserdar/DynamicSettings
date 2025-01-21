@@ -1,0 +1,6 @@
+﻿services:
+  dynamicsettings:
+    image: dynamicsettings
+    build:
+      context: .
+      dockerfile: DynamicSettings/Dockerfile
