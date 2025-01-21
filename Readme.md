@@ -1,6 +1,6 @@
 # Dynamic Settings API
 
-For turkish version of this document, please see [README_TR.md](README_TR.md).
+For turkish version of this document, please see [turkish documentation](READMETR.md).
 
 This API provides a service that allows you to dynamically manage your application configurations. You can view and update configurations of your application running in the test environment.
 
